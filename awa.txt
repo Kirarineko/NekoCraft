@@ -1,0 +1,17 @@
+全物品
+NekoStorage □■■
+□：版本
+■：分级
+（可能有特殊版本或改版后缀）
+如：NekoStorage 350
+       NekoStorage 490
+
+高速分盒
+TurboSplitter □■■
+□：版本
+■：倍速
+如：TubroSplitter 164
+
+计数堆分
+Turbopack□■■
+同上
